@@ -6,7 +6,7 @@ This repository contains an end-to-end R pipeline for integrating single-cell eQ
 2. **Replication MR**  
 3. **Colocalization Analysis**
 
-as applied to 14 immune cell types and atherosclerotic cardiovascular disease (ASCVD) outcomes (CAD, LAS, PAD).
+as applied to 14 immune cell types and any outcome of choice.
 
 ---
 
